@@ -2,6 +2,15 @@ body {
   text-align: center;
 }
 
+.main-para {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+#active {
+  background-color: white;
+  color: steelblue;
+}
 /* Navigation backgroun color and spacing*/
 nav {
   background-color: steelblue;
